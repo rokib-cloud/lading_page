@@ -2,3 +2,7 @@
 .nav-bg{
     background-color:#F85559;
 }
+.bg-1{
+    background-image: url(images/banner1.png);
+    background-size: cover;
+}
